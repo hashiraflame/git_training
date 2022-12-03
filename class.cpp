@@ -21,4 +21,6 @@ int main(){
     B b;
     a = &b;
     a->show();
+    cout<<"s";
+    cout<<"e";
 }
